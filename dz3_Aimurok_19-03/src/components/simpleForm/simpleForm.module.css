@@ -1,0 +1,33 @@
+.register{
+    margin: 0 auto;
+    width: 350px;
+    padding: 40px 15px ;
+    background-color: #beacff;
+    border-radius: 6px;
+}
+h2{
+    text-align: center;
+}
+.simpleForm{
+    font-size: 20px;
+    padding-bottom: 100px;
+}
+.name{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.age{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.checkbox{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.send{
+    display: block;
+    margin-top: 15px;
+}
